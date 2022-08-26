@@ -1,8 +1,8 @@
 [
   {
     "name": "FFY",
-    "url": "https://oeyoew.fun",
-    "icon": "https://favicons.githubusercontent.com/oeyoew.fun",
+    "url": "https://oeyoews.github.io/upptime",
+    "icon": "https://favicons.githubusercontent.com/oeyoews.github.io",
     "slug": "ffy",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1549,
-    "timeDay": 1549,
-    "timeWeek": 1549,
-    "timeMonth": 1549,
-    "timeYear": 1549,
+    "time": 815,
+    "timeDay": 815,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   }
 ]
