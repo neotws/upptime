@@ -1,7 +1,7 @@
 [
   {
     "name": "oeyoew-fun",
-    "url": "oeyoew.fun",
+    "url": "https://oeyoew.fun",
     "icon": "https://oeyoew.fun/favicon.ico",
     "slug": "oeyoew-fun",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1508,
-    "timeDay": 1508,
-    "timeWeek": 1508,
-    "timeMonth": 1508,
-    "timeYear": 1508,
+    "time": 1434,
+    "timeDay": 1434,
+    "timeWeek": 1434,
+    "timeMonth": 1434,
+    "timeYear": 1434,
     "dailyMinutesDown": {}
   },
   {
     "name": "twm",
-    "url": "twms.vercel.app",
+    "url": "https://twms.vercel.app",
     "icon": "https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png",
     "slug": "twm",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
