@@ -6,6 +6,9 @@ sites:
   - name: oeyoew-fun
     url: oeyoew.fun
     icon: https://oeyoew.fun/favicon.ico
+  - name: twm
+    url: twms.vercel.app
+    icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
