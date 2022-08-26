@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1343,
-    "timeDay": 1343,
-    "timeWeek": 1343,
-    "timeMonth": 1343,
-    "timeYear": 1343,
+    "time": 1212,
+    "timeDay": 1212,
+    "timeWeek": 1212,
+    "timeMonth": 1212,
+    "timeYear": 1212,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 254,
+    "timeDay": 254,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "test",
-    "url": "https://nontexist.com",
-    "icon": "https://favicons.githubusercontent.com/nontexist.com",
-    "slug": "test",
-    "status": "down",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-26": 0
-    }
   }
 ]
