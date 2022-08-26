@@ -12,6 +12,10 @@ sites:
   - name: twm
     url: https://twms.vercel.app
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
+  - name: upptime
+    url: https://oeyoews.github.io/upptime
+    icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png
+
   # - name: test
   #   url: https://nontexist.com
 
