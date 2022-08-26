@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: FFY
-    url: oeyoew.fun
+    url: https://oeyoews.github.io/upptime
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
