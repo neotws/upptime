@@ -4,12 +4,12 @@ repo: upptime # The name of this repository
 
 sites:
   - name: FFY
-    url: https://oeyoews.github.io/upptime
+    url: oeyoew.fun
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://oeyoew.fun
+  # cname:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
