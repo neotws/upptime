@@ -6,6 +6,9 @@ sites:
   - name: oeyoew-fun
     url: https://oeyoew.fun
     icon: https://oeyoew.fun/favicon.ico
+  - name: oeyoew-fun(bk)
+    url: https://oeyoews.github.io/tw5
+    icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/koi-fish.png
   - name: twm
     url: https://twms.vercel.app
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
