@@ -9,6 +9,8 @@ sites:
   - name: twm
     url: https://twms.vercel.app
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
+  - name: null
+    url: null
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
