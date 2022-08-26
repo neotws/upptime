@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname:
   baseUrl: /upptime
-  logoUrl: https://oeyoew.fun/favicon.ico
+  logoUrl: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png
   name: oeyoews
   favicon: https://oeyoew.fun/favicon.ico
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
