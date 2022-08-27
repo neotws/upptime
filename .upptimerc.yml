@@ -15,7 +15,9 @@ sites:
   - name: upptime
     url: https://oeyoews.github.io/upptime
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png
-
+  - name: neotw
+    url: https://neotw.tiddlyhost.com
+    icon: https://gitlab.com/oeyoews/neotw/-/raw/main/images/flask.png
   # - name: test
   #   url: https://nontexist.com
 
