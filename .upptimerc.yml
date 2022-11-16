@@ -13,7 +13,7 @@ sites:
     url: https://twms.vercel.app
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
   - name: upptime
-    url: https://oeyoews.github.io/upptime
+    url: https://neotws.github.io/upptime
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png
   - name: neotw
     url: https://neotw.tiddlyhost.com
