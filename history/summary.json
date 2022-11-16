@@ -60,18 +60,20 @@
     "url": "https://oeyoews.github.io/upptime",
     "icon": "https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 209,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 82,
-    "dailyMinutesDown": {}
+    "time": 77,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 77,
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   },
   {
     "name": "neotw",
