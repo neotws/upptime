@@ -62,18 +62,16 @@
     "slug": "upptime",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2022-11-16": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "neotw",
