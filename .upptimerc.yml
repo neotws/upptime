@@ -3,23 +3,15 @@ owner: neotws # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: oeyoew-fun
-    url: https://oeyoew.fun
-    icon: https://oeyoew.fun/favicon.ico
   - name: oeyoew-fun(bk)
     url: https://oeyoews.github.io/tw5
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/koi-fish.png
-  - name: twm
-    url: https://twms.vercel.app
-    icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/music-notes.png
   - name: upptime
     url: https://neotws.github.io/upptime
     icon: https://cdn.jsdelivr.net/gh/oeyoews/img@latest/status.png
   - name: neotw
-    url: https://neotw.tiddlyhost.com
-    icon: https://gitlab.com/oeyoews/neotw/-/raw/main/images/flask.png
-  # - name: test
-  #   url: https://nontexist.com
+    url: https://oeyoews.github.io/neotw/
+    icon: https://oeyoews.github.io/neotw/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
